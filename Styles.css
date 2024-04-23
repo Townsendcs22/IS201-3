@@ -1,0 +1,14 @@
+/* styles.css */
+
+body {
+    background-color: #dd8d1d39; /* Light grey color */
+    /* You can also use predefined color names like "lightgrey" */
+}
+
+body {
+    color: #0f1d74; /* Dark grey color */
+    /* You can also use predefined color names like "darkgrey" */
+}
+body {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ; /* Default to Arial if available, otherwise use sans-serif font */
+}

@@ -1,0 +1,25 @@
+/* styles.css */
+
+/* Style definition 1 */
+.styled-div {
+    padding: 20px;
+    margin: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-family: Arial, sans-serif;
+}
+
+/* Style definition 2 */
+.red-text {
+    color: red;
+}
+
+/* Style definition 3 */
+.blue-text {
+    color: blue;
+}
+
+/* Style definition 4 */
+.green-text {
+    color: green;
+}
